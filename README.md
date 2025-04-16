@@ -1,5 +1,5 @@
 ## mai 🌱
-![Totoro Banner](https://i.ibb.co/R46pZJjn/Totoro-Grass.webp)
+<img src="https://i.ibb.co/R46pZJjn/Totoro-Grass.webp" alt="Totoro Banner" width="100%" />
 
 ## ✧･: * about me * :･✧
 🎓 cs grad  
